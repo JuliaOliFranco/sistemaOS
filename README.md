@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/JuliaOliFranco/sistemaOS?style=plastic)
-# Sistema OS (Java - MySQL
-Ateliê de Costura
+# Sistema OS (Java - MySQL)
+Sistema para gestão de Ateliê de Costura
 ## Autora
-Julia OliveiraFranco
+Julia Oliveira Franco
